@@ -6,6 +6,10 @@ Be sure to use the correct ruby version.
 
 [$]> `rbenv install`
 
+### Install Gems
+
+[$]> `bundle install`
+
 ## Script Usage
 
 Press `Enter`, `Ctrl + D` To Submit And Parse Input
