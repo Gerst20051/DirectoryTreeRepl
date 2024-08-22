@@ -64,6 +64,8 @@ LIST' | ./directories.rb
 COMMANDS
 ```
 
+![Command Output Screenshot](screenshots/command_output.png)
+
 ## Exit Script
 
 Type `exit`, Press `Enter`, `Ctrl + D` To Exit
@@ -78,6 +80,8 @@ OR
 
 [$]> `bundle exec rspec --format documentation`
 
+![RSpec Output Screenshot](screenshots/rspec_output.png)
+
 ## Run Linter
 
 [$]> `bundle exec rubocop`
@@ -85,6 +89,8 @@ OR
 [$]> `bundle exec rubocop -a`
 
 [$]> `bundle exec rubocop -A`
+
+![RuboCop Output Screenshot](screenshots/rubocop_output.png)
 
 ## Dependencies (Ignore -- Just For Personal Reference)
 
